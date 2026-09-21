@@ -1,0 +1,26 @@
+{
+  "id": "./",
+  "name": "Ruta Segura Tunja",
+  "short_name": "Ruta Segura",
+  "description": "Consulta lugares de interés en Tunja, incluso sin conexión.",
+  "lang": "es",
+  "dir": "ltr",
+  "categories": [
+    "navigation",
+    "travel"
+  ],
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "theme_color": "#0f4c5c",
+  "background_color": "#f5f7f7",
+  "icons": [
+    {
+      "src": "./img/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
